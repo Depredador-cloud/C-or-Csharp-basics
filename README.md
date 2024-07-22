@@ -1,4 +1,4 @@
-# C-or-Csharp-basics
+# C#-or-Csharp-basics
 # Introduction to C# Programming Language
 
 C# (pronounced "C-sharp") is a modern, object-oriented programming language developed by Microsoft. It is part of the .NET framework and is designed for building a wide range of applications, from web applications to mobile apps to enterprise software. Here is a basic guide to the C# programming language, covering essential concepts and providing examples.
