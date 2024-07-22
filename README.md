@@ -204,9 +204,6 @@ C# is a powerful and versatile programming language that supports modern program
 
 For more detailed information and advanced topics, refer to "C# 7.0 in a Nutshell: The Definitive Reference" by Joseph Albahari and Ben Albahari, "Pro C# 7: With .NET and .NET Core" by Andrew Troelsen and Philip Japikse, and "Clean Architecture: A Craftsman's Guide to Software Structure and Design" by Robert C. Martin.
 
-## GitHub Badge
-[![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/Depredador-cloud/Csharp-programming-basics/blob/main/README.md)
-
 
 ## Advanced Concepts in C#
 
@@ -447,6 +444,3 @@ namespace ExceptionHandling
 
 ## Conclusion
 C# is a versatile and powerful language that supports a wide range of programming paradigms and features. By mastering the basics and exploring advanced topics such as properties, indexers, delegates, events, asynchronous programming, LINQ, generics, and exception handling, you can build robust and efficient applications. For more in-depth information, refer to "C# 7.0 in a Nutshell: The Definitive Reference" by Joseph Albahari and Ben Albahari, "Pro C# 7: With .NET and .NET Core" by Andrew Troelsen and Philip Japikse, and "Clean Architecture: A Craftsman's Guide to Software Structure and Design" by Robert C. Martin.
-
-## GitHub Badge
-[![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/Depredador-cloud/Csharp-programming-basics/blob/main/README.md)
